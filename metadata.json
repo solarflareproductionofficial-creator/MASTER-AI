@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix Master AI",
+  "description": "An adaptive, secure, and customizable AI assistant that solves complex logic, creates content, and learns your personal preferences. Let the paid packages be based on the number of achievements, not money. Let\u0027s switch to the white theme, let there be an HTML game making feature in the settings, and let\u0027s be able to play.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
